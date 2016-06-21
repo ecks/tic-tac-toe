@@ -1,1 +1,3 @@
-This program installs the program tic-tac-toe, which uses gtk to render the graphics. It uses a minimax algorithm with alpha-beta pruning on the inside to determine best moves and play against you.
+This is a backup of a package hosted on hackage:
+
+http://hackage.haskell.org/package/tic-tac-toe
