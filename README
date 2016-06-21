@@ -1,0 +1,1 @@
+This program installs the program tic-tac-toe, which uses gtk to render the graphics. It uses a minimax algorithm with alpha-beta pruning on the inside to determine best moves and play against you.
